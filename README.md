@@ -16,6 +16,9 @@ echo '<pre>'.print_r($Skiresort->Test('01-1614 7133 5350 0317 7726-2'), 1).'</pr
 
 // cislo karty pro registraci
 echo '<pre>'.print_r($Skiresort->Test('44911286'), 1).'</pre>';
+
+// Barcode - kód přečtený čtečkou čárových kódů
+echo '<pre>'.print_r($Skiresort->Test('70356477034043557622'), 1).'</pre>';
 ?>
 ```
 
