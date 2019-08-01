@@ -21,6 +21,7 @@ echo '<pre>'.print_r($Skiresort->Test('44911286'), 1).'</pre>';
 
 ## Ukázka výsledků
 
+Zaznam nalezen (platnost opravneni)
 ```
 Array
 (
@@ -29,6 +30,7 @@ Array
 )
 ```
 
+Zaznam nalezen (platnost opravneni + zakladni informace o zakaznikovi)
 ```
 Array
 (
@@ -40,6 +42,7 @@ Array
 )
 ```
 
+Zaznam nenalezen
 ```
 Array
 (
@@ -47,6 +50,7 @@ Array
 )
 ```
 
+Chyba pri pripojeni k API
 ```
 Array
 (
