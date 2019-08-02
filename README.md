@@ -29,6 +29,7 @@ Záznam nalezen (platnost oprávění)
 Array
 (
     [valid] => true
+    [sale] => 10
     [date] => 2019-07-29
 )
 ```
@@ -38,6 +39,7 @@ Záznam nalezen (platnost oprávění + základní informace o uživateli)
 Array
 (
     [valid] => true
+    [sale] => 10
     [date] => 2019-07-29
     [name] => Martin
     [surname] => Dobry
