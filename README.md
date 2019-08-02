@@ -44,6 +44,10 @@ Array
     [name] => Martin
     [surname] => Dobry
     [email] => martin@....
+    [phone] => 774800...
+    [street] => V Parku
+    [city] => Praha 4
+    [zip] => 14800
 )
 ```
 
