@@ -22,7 +22,11 @@ echo '<pre>'.print_r($Skiresort->Test('70356477034043557622'), 1).'</pre>';
 ?>
 ```
 
-## Ukázka výsledků
+## Ukázka API
+
+https://skiresort.webscript.cz/test/API/
+
+## Ukázka různých výsledků
 
 Záznam nalezen (platnost oprávění a sleva v procentech)
 ```
