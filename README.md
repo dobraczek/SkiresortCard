@@ -47,6 +47,17 @@ Array
 )
 ```
 
+Pokud nemáte oprávnění načíst detaily o uživateli
+```
+Array
+(
+    [valid] => true
+    [date] => 2019-07-29
+    [sale] => 10
+    [error_detail] => You do not have the permission!
+)
+```
+
 Záznam nenalezen
 ```
 Array
