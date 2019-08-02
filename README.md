@@ -24,7 +24,7 @@ echo '<pre>'.print_r($Skiresort->Test('70356477034043557622'), 1).'</pre>';
 
 ## Ukázka výsledků
 
-Záznam nalezen (platnost oprávění)
+Záznam nalezen (platnost oprávění a sleva v procentech)
 ```
 Array
 (
@@ -34,7 +34,7 @@ Array
 )
 ```
 
-Záznam nalezen (platnost oprávění + základní informace o uživateli)
+Záznam nalezen (platnost oprávění, sleva v procentech a základní informace o uživateli)
 ```
 Array
 (
