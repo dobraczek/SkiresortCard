@@ -22,12 +22,6 @@ echo '<pre>'.print_r($Skiresort->Test('70356477034043557622'), 1).'</pre>';
 ?>
 ```
 
-## Ukázka API
-
-Api je napojeno přímo na Skiresort e-shop a vrací konkrétní údaje o objednávce "201900001".
-
-https://skiresort.webscript.cz/test/API/
-
 ## Ukázka různých výsledků
 
 Záznam nalezen (platnost oprávění a sleva v procentech)
