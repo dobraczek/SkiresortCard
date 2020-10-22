@@ -38,7 +38,7 @@ one":"420123123123","street":"Novakova 20","city":"Prague","zip":"12000"}
 * city = město uživatele
 * zip = PSČ uživatele
 
-## Chyba dotazu
+## Chyba požadavku
 
 <pre>
 {"error":"No data!"}
