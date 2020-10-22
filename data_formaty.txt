@@ -1,0 +1,10 @@
+Číslo čipu lze zadávat v následujícím formátu (hodnota "data")
+
+* PP-XXXX XXXX XXXX XXXX XXXX-S - běžný formát uvedený na čipu
+* PP-XXXXXXXXXXXXXXXXXXXX-S - formát bez mezer
+* PPXXXXXXXXXXXXXXXXXXXXS - formát bez mezer i pomlček
+* PP-XXXX XXXX XXXX XXXX XXXX - formát bez kontrolního součtu
+* PP-XXXXXXXXXXXXXXXXXXXX - formát bez kontrolního součtu a mezer
+* PPXXXXXXXXXXXXXXXXXXXX - formát bez kontrolního součtu, mezer a pomlčky
+* XXXX XXXX XXXX XXXX XXXX - formát bez kontrolního součtu a označení typu čipu
+* XXXXXXXXXXXXXXXXXXXX - formát bez kontrolního součtu, označení typu čipu a mezer
