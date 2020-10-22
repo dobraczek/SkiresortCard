@@ -44,6 +44,10 @@ one":"420123123123","street":"Novakova 20","city":"Prague","zip":"12000"}
 {"error":"No data!"}
 </pre>
 
+<pre>
+{"error":"Login incorrect!"}
+</pre>
+
 
 ## Ukázky komunikace pro GASTRO
 
