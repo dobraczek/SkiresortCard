@@ -7,7 +7,7 @@ Toto API souluuží k získání a ověření výše slevy, autorizace platby pr
 Základní požadavek na zjištění slevy
 
 <pre>
-{"user":"uzivatel","pass":"*********","detail":1,"data":"7001884751875019366","base64":1}
+{"user":"uzivatel","pass":"*********","detail":1,"data":"01-1614 7133 5345 3238 5823-4","base64":1}
 </pre>
 
 **Popis jednotlivých hodnot:**
@@ -55,7 +55,7 @@ one":"420123123123","street":"Novakova 20","city":"Prague","zip":"12000"}
 
 Dotaz:
 <pre>
-{"user":"uzivatel","pass":"**********","detail":1,"price":"300","data":"1110210581","base64":1}
+{"user":"uzivatel","pass":"**********","detail":1,"price":"300","data":"01-1614 7133 5345 3238 5823-4","base64":1}
 </pre>
 
 Odpověď:
@@ -69,7 +69,7 @@ one":"","street":"","city":"","zip":"0"}
 
 Dotaz:
 <pre>
-{"user":"uzivatel","pass":"**********","price":"301","data":"1110210581","base64":1}
+{"user":"uzivatel","pass":"**********","price":"301","data":"01-1614 7133 5345 3238 5823-4","base64":1}
 </pre>
 
 Odpověď:
