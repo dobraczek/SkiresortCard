@@ -12,7 +12,7 @@ Základní požadavek na zjištění slevy
 
 **Popis jednotlivých hodnot:**
 * user - uživatelské jméno pro autorizaci API, přiděluje areál
-* pass - heslo pro autorizaci API, přideluje areál
+* pass - heslo pro autorizaci API, přiděluje areál
 * detail - určuje zda-li API má vracet detail o zákazníkovi, pokud areál tento atribut zablokuje, API tyto údaje nevrátí
 * data - mělo by obsahovat číslo čipu, barcode nebo jiný autorizační údaj uživatele (zákazníka)
 * base64 - pokud obsahuje hodnotu 0, api očekává, že celý požadavek bude kódován v BASE64
