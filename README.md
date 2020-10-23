@@ -1,6 +1,6 @@
 # NEWTON DATA API
 
-Toto API souluuží k získání a ověření výše slevy, autorizace platby pro Gastro, apod.
+Toto API slouží k získání a ověření výše slevy, autorizace platby pro Gastro, apod.
 
 ### Příklad zjištění slevy
 
